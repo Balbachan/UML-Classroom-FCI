@@ -1,5 +1,5 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao">Ciência da Computação</a></h3>
 
 
 <font size="+12"><center>
@@ -27,22 +27,27 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Laura C. Balbachan dos Santos
+* Vinicius S. Pansan
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;A Escola Aprendizado Infinito está em busca de uma forma mais eficiente de registrar a presença de seus alunos do Ensino Fundamental I, visto que ainda fazem esse processo de forma manual. O corpo docente dispõe um professor para cada turma, geralmente entre 20 e 30 alunos, para o lecionam as matérias de Matemática, Português, Artes, Ciências, História e Geografia. Para  Inglês e Educação Física, são dois outros professores.
+
+A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda após o intervalo e para a formação do aluno, ele necessita de pelo menos 75% de presença em todas as aulas.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
+
+| RF      | RNF |
+| ----------- | ----------- |
+| Picker de Turma      | Fácil e Intuitivo       |
+| Data 	   | Acessibilidade        |
+| Horário da Chamada 	   | Web Responsivo      |
+| Lista com os Alunos 	 	   | Código Otimizado (Rápido)       |
+| Picker de Matéria 	   | Notificações 	        |
+| Gerador de Relatórios 	   | Texto dinâmico        |
+
 
 # Diagrama de Atividades
 
