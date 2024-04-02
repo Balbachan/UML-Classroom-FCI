@@ -1,12 +1,13 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Sistema de Presença para a Escola Aprendizado Infinito
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: Laura e Vinícius
 
 # Descrição
-
-*<Descrição_resumida_do_projeto>*
+A Escola Aprendizado Infinito está em busca de uma forma mais eficiente de registrar a presença de seus alunos do Ensino Fundamental I, visto que para esse processo é feito uso de uma folha. 
+O corpo docente dispõe um professor para cada turma, geralmente entre 20 e 30 alunos, que é responsável por ensinar as matérias Matemática, Português, Artes, Ciências, História e Geografia. Para Inglês e Educação Física, são dois outros professores.
+A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda após o intervalo. Uma das condições para que o aluno se avance para a próxima série é que ele tenha pelo menos 75% de presença em todas as aulas.
 
 # Documentação
 
