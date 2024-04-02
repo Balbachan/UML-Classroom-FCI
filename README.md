@@ -14,7 +14,5 @@ A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda ap
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
 
 
-
 # Releases
-
-Deverá ser publicado um release ao término de cada entrega do projeto.
+- [Entrega 1](https://github.com/Balbachan/UML-Classroom-FCI/releases/tag/1.0)
