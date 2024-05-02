@@ -49,7 +49,8 @@ A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda ap
 ![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/cb0a364d-a6fc-40a7-9eb4-790c4e0395f5)
 
 # Diagrama de Casos de Uso
-![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/b6b32110-8136-477f-bd66-198dbb11a64a)
+![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/d2e47340-edd1-46f6-9509-6752727eac1d)
+
 
 
 # Descrição dos Casos de Uso
