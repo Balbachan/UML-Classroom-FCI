@@ -13,7 +13,7 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
+- [Diagrama de Sequência](#diagrama-de-ordem-interações)
 - [Diagrama de Classes](#diagrama-orientado-objetos)
 - [Diagrama de Estados](#diagrama-estrutura-componente)
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
