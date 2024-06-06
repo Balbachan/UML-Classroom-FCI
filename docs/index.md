@@ -145,13 +145,15 @@ A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda ap
 
 
 # Diagrama de Sequência
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![WhatsApp Image 2024-06-06 at 13 49 27](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/e28e7f33-93c8-4c42-8356-11939dbeaed6)
+
 
 # Diagrama de Classes
 ![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/a023df70-2725-404f-9202-71bf5f696a79)
 
 
 # Diagrama de Estados
+![WhatsApp Image 2024-06-06 at 13 49 47](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/93e5df01-80c7-4705-bdaa-50ef010d2db8)
 
 
 # Diagrama de Implantação
