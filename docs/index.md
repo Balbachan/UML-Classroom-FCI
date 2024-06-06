@@ -145,21 +145,17 @@ A chamada é realizada duas vezes por dia, a primeira pela manhã e a segunda ap
 
 
 # Diagrama de Sequência
-
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de Classes
+![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/a023df70-2725-404f-9202-71bf5f696a79)
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
 # Diagrama de Implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/Balbachan/UML-Classroom-FCI/assets/84653771/499c1eaa-ae92-4dfa-a1e3-7942abf5b437)
 
 # Referências
-
 *&lt;Lista de referências&gt;*
